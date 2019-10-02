@@ -1,3 +1,5 @@
+AprendiendoPython.
+
 Un repositorio de ejercicios es aquel donde guardaremos los diferentes programas hechos en Python.
 
 En el repositorio nos vendra de buena manera hacia nuestro aprendizaje ya que en el mismo, podremos guardar los programas hechos en Python y asi almacenarlos dicha manera modificarlos para despues darles buen uso y repasar dia con dia los programas realizados.
